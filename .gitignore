@@ -1,1 +1,5 @@
-resultados/
+.Rhistory
+.Renviron 
+.RData
+.Rproj
+.Rproj.user/
